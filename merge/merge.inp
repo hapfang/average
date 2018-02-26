@@ -1,0 +1,22 @@
+
+
+
+
+
+Current run number:
+        1
+Time sample range in the output
+        14000
+        22000 
+Number of steps to skip:
+        1
+Number of files to merge:
+        3
+Timesamples range (#files + 1):
+	14000
+	16700
+	19400
+	22000
+Bring the average pressure to zero flag:
+        0
+
