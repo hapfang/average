@@ -6,17 +6,28 @@
 Current run number:
         1
 Time sample range in the output
-        14000
-        22000 
+        18300
+        20800 
 Number of steps to skip:
         1
 Number of files to merge:
-        3
+        14
 Timesamples range (#files + 1):
-	14000
-	16700
-	19400
-	22000
+	18300
+	18700
+	18900
+	19100
+	19300
+	19450
+	19600
+	19750
+	19900
+	20050
+	20200
+	20350
+	20500
+	20650
+	20800
 Bring the average pressure to zero flag:
         0
 

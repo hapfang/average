@@ -1,2 +1,2 @@
-ifort -debug all -ccdefault none -fixed -132 -o Runme_Merge Merge.f
-# ifort -debug all -ccdefault none -static -fixed -132 -o Runme_Merge Merge.f
+gfortran -ffixed-form -ffixed-line-length-none -o Runme_Merge Merge.f
+#ifort -debug all -ccdefault none -fixed -132 -o Runme_Merge Merge.f #Used on insight

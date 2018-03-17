@@ -1,3 +1,2 @@
-ifort -debug inline-debug-info -ccdefault none -fixed -132 -o Runme_Average Average.f
-#ifort -static -fixed -132 -o Runme_Average Average.f
-
+gfortran -fbacktrace -ffixed-form -ffixed-line-length-none -o Runme_Average Average.f -fbounds-check
+#ifort -debug inline-debug-info -ccdefault none -fixed -132 -o Runme_Average Average.f #Used on insight
